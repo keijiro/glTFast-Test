@@ -1,0 +1,19 @@
+{
+  "scopedRegistries": [
+    {
+      "name": "Keijiro",
+      "url": "https://registry.npmjs.com",
+      "scopes": [
+        "jp.keijiro"
+      ]
+    }
+  ],
+  "dependencies": {
+    "com.unity.cloud.gltfast": "6.0.1",
+    "com.unity.cloud.ktx": "3.2.2",
+    "com.unity.cloud.ktx.webgl-2023": "1.0.1",
+    "com.unity.render-pipelines.universal": "16.0.4",
+    "jp.keijiro.test-assets": "1.0.1",
+    "com.unity.modules.imageconversion": "1.0.0"
+  }
+}
