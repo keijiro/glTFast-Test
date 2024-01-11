@@ -9,9 +9,8 @@ public sealed class RuntimeExporter : MonoBehaviour
 
     public void ExportScene()
     {
-        var path = "Export/Test.gltf";
         var export = new GameObjectExport();
-        export.AddScene(new[]{Root.gameObject});
+        export.AddScene(new[]{ Root.gameObject });
         export.SaveToFileAndDispose(PathField.text);
     }
 }

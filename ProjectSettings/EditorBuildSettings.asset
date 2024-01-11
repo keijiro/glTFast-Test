@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/RuntimeImport.unity
+    guid: d49f4c93ecc17417c969d7349c282e21
+  - enabled: 1
     path: Assets/RuntimeExport.unity
     guid: 4216595e3d67c497c800f1ab45b5d616
   m_configObjects: {}
