@@ -1077,7 +1077,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -1302,7 +1302,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -1446,9 +1446,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8569c53ee516442508f7bbdb8a9de151, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  <Prefab>k__BackingField: {fileID: 1366670196607380784, guid: db2bdc071fd794dfd8b7ae4793c8baea, type: 3}
+  <Prefab>k__BackingField: {fileID: 1448960735621950775, guid: ce70eee14260049bbb75ebcc6baf48d3, type: 3}
   <Root>k__BackingField: {fileID: 1978410187}
-  <Interval>k__BackingField: 0.05
+  <Interval>k__BackingField: 0.01
   <InstanceLife>k__BackingField: 5
 --- !u!4 &2105311898
 Transform:
