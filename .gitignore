@@ -8,3 +8,7 @@ Desktop.ini
 /Recordings
 /Temp
 /UserSettings
+
+/Export/*.bin
+/Export/*.gltf
+/Export/*.jpg
