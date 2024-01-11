@@ -14,6 +14,7 @@
     "com.unity.cloud.ktx.webgl-2023": "1.0.1",
     "com.unity.render-pipelines.universal": "16.0.5",
     "jp.keijiro.test-assets": "1.0.1",
+    "com.unity.modules.animation": "1.0.0",
     "com.unity.modules.imageconversion": "1.0.0"
   }
 }
