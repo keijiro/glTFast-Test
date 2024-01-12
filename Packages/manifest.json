@@ -6,6 +6,13 @@
       "scopes": [
         "jp.keijiro"
       ]
+    },
+    {
+      "name": "package.openupm.com",
+      "url": "https://package.openupm.com",
+      "scopes": [
+        "com.atteneder.draco"
+      ]
     }
   ],
   "dependencies": {
@@ -15,6 +22,7 @@
     "com.unity.render-pipelines.universal": "16.0.5",
     "jp.keijiro.test-assets": "1.0.1",
     "com.unity.modules.animation": "1.0.0",
-    "com.unity.modules.imageconversion": "1.0.0"
+    "com.unity.modules.imageconversion": "1.0.0",
+    "com.atteneder.draco": "4.1.0"
   }
 }
