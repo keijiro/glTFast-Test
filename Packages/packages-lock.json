@@ -148,6 +148,15 @@
         "com.unity.modules.imgui": "1.0.0"
       }
     },
+    "jp.keijiro.klak.motion": {
+      "version": "1.1.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.mathematics": "1.2.1"
+      },
+      "url": "https://registry.npmjs.com"
+    },
     "jp.keijiro.test-assets": {
       "version": "1.0.1",
       "depth": 0,
@@ -202,6 +211,15 @@
       "depth": 1,
       "source": "builtin",
       "dependencies": {}
+    },
+    "com.unity.modules.unitywebrequesttexture": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.modules.unitywebrequest": "1.0.0",
+        "com.unity.modules.imageconversion": "1.0.0"
+      }
     }
   }
 }
