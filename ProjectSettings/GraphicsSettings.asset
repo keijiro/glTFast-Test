@@ -61,7 +61,6 @@ GraphicsSettings:
     UnityEngine.Rendering.Universal.UniversalRenderPipeline: {fileID: 11400000, guid: 2ae1fe9d5ebf5480db0875c395e15263, type: 2}
   m_LightsUseLinearIntensity: 1
   m_LightsUseColorTemperature: 1
-  m_DefaultRenderingLayerMask: 1
   m_LogWhenShaderIsCompiled: 0
   m_LightProbeOutsideHullStrategy: 0
   m_CameraRelativeLightCulling: 0
